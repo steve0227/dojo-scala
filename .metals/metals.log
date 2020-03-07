@@ -1,0 +1,209 @@
+INFO  started: Metals version 0.8.0 in workspace '/home/drai06/Escritorio/dojo-escala'
+INFO  time: initialize in 1.19s
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/hola-mundo.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/hola.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Hola.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Hola.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Hola.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Hola.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicional.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/condicionales.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/condicionales.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/condicionales.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/condicionales.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/hola-mundo/Hola.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/Match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/Match.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/bucles/mientras.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/condicionales/condicionales.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/bucles/mientras.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/bucles/mientras.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/bucles/haga.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/bucles/haga.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/bucles/haga.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/import.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Import.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Import.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Import.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Import.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+mar. 07, 2020 5:57:56 A. M. scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+mar. 07, 2020 5:57:56 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/drai06/Escritorio/dojo-escala/Import.scala,line-4,offset=142
+scala.reflect.internal.FatalError: no context found for source-file:///home/drai06/Escritorio/dojo-escala/Import.scala,line-4,offset=142
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/Import.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/imports.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/imports.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/imports.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/ejercicio/ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+mar. 07, 2020 6:00:53 A. M. scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+mar. 07, 2020 6:00:53 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/drai06/Escritorio/dojo-escala/imports.scala,line-1,offset=7
+scala.reflect.internal.FatalError: no context found for source-file:///home/drai06/Escritorio/dojo-escala/imports.scala,line-1,offset=7
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+mar. 07, 2020 6:00:53 A. M. scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+mar. 07, 2020 6:00:53 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/drai06/Escritorio/dojo-escala/imports.scala,line-1,offset=14
+scala.reflect.internal.FatalError: no context found for source-file:///home/drai06/Escritorio/dojo-escala/imports.scala,line-1,offset=14
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/imports.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/bucles/mientras.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/ejercicio/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/ejercicio/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/imports.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/ejercicio/ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/ejercicio/ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/ejercicio/ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/ejercicio/ejercicio.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace '/home/drai06/Escritorio/dojo-escala'
+INFO  time: initialize in 1s
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/ejercicio/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/reto/reto.scala
+INFO  no build target: using presentation compiler with only scala-library
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 43)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 36)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 37)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 39)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 40)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[StringBuilder]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 48)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 47)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 46)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 45)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 44)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 43)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[<error>]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 42)
+something's wrong: no file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala in Array[String]RangePosition(file:///home/drai06/Escritorio/dojo-escala/reto/reto.scala, 28, 28, 41)
+mar. 07, 2020 6:36:41 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: offset 130, count -1, length 153
+java.lang.StringIndexOutOfBoundsException: offset 130, count -1, length 153
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-escala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/reto/reto.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-escala/reto/reto.scala
+INFO  shutting down Metals
